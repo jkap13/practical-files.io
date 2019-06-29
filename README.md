@@ -53,11 +53,11 @@ Currently it contains the following:
 
     > Excel Sheet.
     > Presentation about College.
-    > <pre><p>, <br>, <pre>, <i>, <u> tags in HTML. </pre>
+    > Italic, Bold, Underline, Pre tags in HTML. </pre>
     > Table in HTML.
-    > <pre><font> tag in HTML</pre>
+    > FONT tag in HTML.
     > Lists in HTML.
-    ><pre> <dl>, <dd>, <dt> tags.</pre>
+    > Definition list in HTMl.
     > Form tag in HTML.
     > Hperlinking , Frameset, Anchor Tag.
     > Inline, Internal, External CSS.
