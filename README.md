@@ -4,7 +4,7 @@ This contain the files of programs to be performed in the lab in various courses
 Currently it contains the following:
 
 1. Data Structures using C Lab. (Data_structures_file.docx + printnew.docx) ->
-
+<pre>
     > Searching
     > Sorting
     > Arrays
@@ -13,7 +13,7 @@ Currently it contains the following:
     > Stack
     > Application of Stacks
     
-    
+    </pre>
 2. Database Management Systems Lab (DBMS.docx) ->
 
     > Basic SQL Queries.
@@ -50,10 +50,10 @@ Currently it contains the following:
     
     
 4. Internet Fundamentals Lab Practicals (jai_if_file.docx)
-
+<pre>
     > Excel Sheet.
     > Presentation about College.
-    > <p>, <br>, <pre>, <i>, <u> tags in HTML.
+    > <><p>, <br>, <pre>, <i>, <u> tags in HTML.
     > Table in HTML.
     > <font> tag in HTML
     > Lists in HTML.
@@ -63,7 +63,7 @@ Currently it contains the following:
     > Inline, Internal, External CSS.
     > JavaScript implementation by lighting a bulb ON/OFF
 
-
+<pre>
 
 # Some points to take care of :-
 1. Put your own bio data in "jai_if_file.docx" file, the space is intentionally left blank.
