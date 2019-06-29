@@ -2,9 +2,9 @@
 This contain the files of programs to be performed in the lab in various courses related to Computer education.
 
 Currently it contains the following:
-
-1. Data Structures using C Lab. (Data_structures_file.docx + printnew.docx) ->
 <pre>
+1. Data Structures using C Lab. (Data_structures_file.docx + printnew.docx) ->
+
     > Searching
     > Sorting
     > Arrays
@@ -13,7 +13,7 @@ Currently it contains the following:
     > Stack
     > Application of Stacks
     
-    </pre>
+ <pre>
 2. Database Management Systems Lab (DBMS.docx) ->
 
     > Basic SQL Queries.
@@ -28,7 +28,8 @@ Currently it contains the following:
     > Procedures.
     > Refrential Integrity in RDBMS.
     
-    
+ </pre>
+ <pre>
 3. Object Oriented Programming using C++ Lab Practicals (oop_jai.docx) ->
 
     > Searching.
@@ -48,9 +49,10 @@ Currently it contains the following:
     > Operator Overloading.
     > Pure Virtual Function.
     
-    
+   </pre>
+ <pre>
 4. Internet Fundamentals Lab Practicals (jai_if_file.docx)
-<pre>
+
     > Excel Sheet.
     > Presentation about College.
     > <><p>, <br>, <pre>, <i>, <u> tags in HTML.
@@ -62,8 +64,7 @@ Currently it contains the following:
     > Hperlinking , Frameset, Anchor Tag.
     > Inline, Internal, External CSS.
     > JavaScript implementation by lighting a bulb ON/OFF
-
-<pre>
+</pre>
 
 # Some points to take care of :-
 1. Put your own bio data in "jai_if_file.docx" file, the space is intentionally left blank.
