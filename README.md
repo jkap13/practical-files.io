@@ -53,7 +53,7 @@ Currently it contains the following:
 
     > Excel Sheet.
     > Presentation about College.
-    > Italic, Bold, Underline, Pre tags in HTML. </pre>
+    > Italic, Bold, Underline, Pre tags in HTML.
     > Table in HTML.
     > FONT tag in HTML.
     > Lists in HTML.
