@@ -13,7 +13,7 @@ Currently it contains the following:
     > Stack
     > Application of Stacks
     
- <pre>
+
 2. Database Management Systems Lab (DBMS.docx) ->
 
     > Basic SQL Queries.
@@ -28,8 +28,7 @@ Currently it contains the following:
     > Procedures.
     > Refrential Integrity in RDBMS.
     
- </pre>
- <pre>
+
 3. Object Oriented Programming using C++ Lab Practicals (oop_jai.docx) ->
 
     > Searching.
@@ -49,8 +48,7 @@ Currently it contains the following:
     > Operator Overloading.
     > Pure Virtual Function.
     
-   </pre>
- <pre>
+
 4. Internet Fundamentals Lab Practicals (jai_if_file.docx)
 
     > Excel Sheet.
