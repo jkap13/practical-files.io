@@ -64,6 +64,16 @@ Currently it contains the following:
     > JavaScript implementation by lighting a bulb ON/OFF
 </pre>
 
+5. Technical Communication and Soft Skills Lab (Technical Communication and Soft Skills Lab File.docx) ->
+
+    > The Organs of Speech Sound.
+    > Places of Articulation.
+    > Syllable.
+    > Transcription.
+    > Stress.
+    > Intonation.
+    
+
 # Some points to take care of :-
 1. Put your own bio data in "jai_if_file.docx" file, the space is intentionally left blank.
 2. Check index of each file carefully.
